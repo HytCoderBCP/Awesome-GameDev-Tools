@@ -11,4 +11,4 @@ Here  is a list of tools for game development and what they are used for
 - Godot (Free open source game engine good for both 2d and 3d games)
 - Graillon (Voice changer allows you to make creative voices for your game)
 - Daedalus (Procedural dungeons generator plugin for Unity)
-- Unity (Game engine prominently used for mobile games 
+- Unity (Game engine prominently used for mobile games)
