@@ -1,4 +1,4 @@
-# Awesome-GameDev-Tools
+# Awesome-GameDev
 Here  is a list of tools for game development and what they are used for
 
 ## Tools
@@ -12,3 +12,25 @@ Here  is a list of tools for game development and what they are used for
 - Graillon (Voice changer allows you to make creative voices for your game)
 - Daedalus (Procedural dungeons generator plugin for Unity)
 - Unity (Game engine prominently used for mobile games)
+
+## Different Game Development Pathways
+ - Game Programming (Making the game work connecting the dots that Game Design and Game Art make)
+ - Game Design (Build what the concept, rules, and mechanics of the game)
+ - Game Production (Managing the other disciplines and making sure every thing is running smoothly)
+ - Game Art (Making all of the characters, backgrounds, and VFX for the Animators to use)
+ - Audio (Creates all of the sounds you here in the game)
+
+## Game Programming Pathways
+- AI
+- Build/Release
+- Developer Relations
+- Direction
+- Engine
+- Gameplay
+- Graphics
+- Multiplayer
+- Network
+- Physics
+- Rendering
+- Tools
+- UI
