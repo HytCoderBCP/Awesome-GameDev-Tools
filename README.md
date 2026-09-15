@@ -21,16 +21,12 @@ Here  is a list of tools for game development and what they are used for
  - Audio (Creates all of the sounds you here in the game)
 
 ## Game Programming Pathways
-- AI
-- Build/Release
-- Developer Relations
-- Direction
-- Engine
-- Gameplay
-- Graphics
-- Multiplayer
-- Network
-- Physics
-- Rendering
-- Tools
-- UI
+- AI (Creates NPC's and makes their behaviors feel deliberate)
+- Build/Release (Creates the pipeline of how things work)
+- Engine (Works on the architecture of the game optimizing how it runs)
+- Gameplay (Builds the game itself working with the designers and art team to implement mechanics, abilities and combat)
+- Graphics / Rendering (Ensures that what art team makes is shown how they intend while still being in the frame budget)
+- Network (handles the hard problems of multiplayer stuff like lag compensation and client side prediction and reconciliation) 
+- Physics (Handles how move, collide and interact)
+- Tools (Builds the internal software that the rest of the groups use)
+- UI (Implements the User interface once the art team makes it)
